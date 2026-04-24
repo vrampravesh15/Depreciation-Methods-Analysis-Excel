@@ -76,7 +76,7 @@ depreciation-methods-analysis-excel/
 │   └── comparison-chart.png
 └── assets/
     └── project-banner.png
-
+````
 # Files Included
 - `data/depreciation-calculator.xlsx` — Excel workbook with depreciation calculations and schedules.
 - `docs/depreciation-methods-analysis.pdf` — Project documentation with explanation, findings, and recommendations.
